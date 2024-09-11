@@ -16,4 +16,4 @@ This Python project allows you to analyze audio files in WAV format and reverse 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/audio-analysis-reversal.git
+   git clone https://github.com/amfathy/audio-analysis-reversal.git
